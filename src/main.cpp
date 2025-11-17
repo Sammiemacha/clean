@@ -24,7 +24,7 @@
 #include "../include/getColor.hpp"        ///< Color selection utilities
 #include "../include/getDirectory.hpp"    ///< Directory path input utilities
 #include "../include/clean/cleanByType.hpp"    ///< File cleaning by type implementation
-#include "../include/clean/CleanByName.hpp"    ///< File cleaning by name implementation
+#include "../include/clean/cleanByName.hpp"    ///< File cleaning by name implementation
 #include "../include/dangerousExts.hpp"       ///< Dangerous file extension detection
 /// @endcond
 
