@@ -1,0 +1,7 @@
+{
+    "ignoreTokens": [
+        "official", "lyrics", "video", "audio", "hd", "remix", "mv", "live", "youtube",
+        "ft", "feat", "2025", "720p", "1080", "1080p", "best", "song", "songs", "360p", "featuring",
+        "www", "com", "net", "org", "sample", "256k", "season", "episode", "lyric", "music"
+    ]
+}

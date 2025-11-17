@@ -1,0 +1,10 @@
+{
+    "dangerousExtensions": [
+        ".exe", ".dll", ".com", ".msi", ".bin", ".sys",
+        ".bat", ".cmd", ".vbs", ".js", ".jse", ".wsf", ".wsh",
+        ".ps1", ".psm1", ".sh", ".bash", ".zsh",
+        ".lnk", ".inf", ".msu", ".msp",
+        ".docm", ".xlsm", ".pptm",
+        ".scr", ".pif", ".jar", ".reg"
+    ]
+}

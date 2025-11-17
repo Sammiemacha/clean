@@ -1,0 +1,15 @@
+{
+    "Images": [".jpg", ".jpeg", ".png", ".gif", ".bmp", ".tiff", ".webp", ".heic", ".heif", ".svg", ".ico", ".jfif", ".raw", ".arw", ".cr2", ".nef", ".orf", ".dng"],
+    "Videos": [".mp4", ".mov", ".avi", ".mkv", ".wmv", ".flv", ".webm", ".mpeg", ".mpg", ".3gp", ".m4v", ".ts", ".mts", ".vob"],
+    "Audio": [".mp3", ".wav", ".flac", ".aac", ".ogg", ".wma", ".m4a", ".opus", ".aiff", ".mid", ".midi"],
+    "Documents": [".pdf", ".doc", ".docx", ".txt", ".rtf", ".odt", ".csv", ".xlsx", ".xls", ".ppt", ".pptx", ".epub", ".md", ".tex", ".pages", ".numbers", ".key"],
+    "Archives": [".zip", ".rar", ".7z", ".tar", ".gz", ".bz2", ".xz", ".iso", ".dmg", ".tgz", ".cab"],
+    "Code": [".py", ".js", ".html", ".css", ".c", ".cpp", ".h", ".hpp", ".java", ".sh", ".ts", ".php", ".rb", ".go", ".swift", ".kt", ".rs", ".lua", ".sql", ".json", ".xml", ".yml", ".yaml", ".cs", ".vb", ".pl", ".asm", ".bat", ".cmd"],
+    "Fonts": [".ttf", ".otf", ".woff", ".woff2", ".eot", ".fon"],
+    "3D_Models": [".obj", ".fbx", ".stl", ".blend", ".3ds", ".dae", ".ply", ".gltf", ".glb"],
+    "Subtitles": [".srt", ".vtt", ".ass", ".ssa", ".sub"],
+    "Configs": [".ini", ".cfg", ".conf", ".jsonc", ".toml", ".env", ".properties"],
+    "DiskImages": [".iso", ".img", ".vhd", ".vhdx", ".vdi", ".vmdk"],
+    "Packages": [".deb", ".rpm", ".apk", ".jar", ".whl", ".gem", ".msi"],
+    "Other": []
+}
