@@ -51,7 +51,7 @@ cd clean
 ### **Build (Linux)**
 
 ``` bash
-g++ -std=c++17 -O2 -Wall -Wextra -Iinclude -o build/clean src/*.cpp src/clean/*.cpp
+g++ -std=c++20 -Iinclude -Iinclude/clean src/*.cpp src/clean/*.cpp -o clean
 ```
 
 ### **Build (Windows / MinGW)**
